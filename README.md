@@ -22,7 +22,9 @@
     <img src="./src/img/encrypt.png" alt="KeyForge 2" width="300" style="margin-right: 10px;">
 </p>
 
-## Lastest Version
+## [➡️ Go to](https://rawierdt.github.io/PassPai/)
+
+## Lastest Version and What's New
 **N/A**
 
 ## Features
